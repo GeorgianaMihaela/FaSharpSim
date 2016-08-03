@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<automat>
+  <stari>
+    <stare>
+      <nume>p</nume>
+      <idx>0</idx>
+      <start>true</start>
+      <acceptoare>true</acceptoare>
+      <locatie>{X=199,Y=114}</locatie>
+      <culoare>-8388480</culoare>
+    </stare>
+    <stare>
+      <nume>q</nume>
+      <idx>1</idx>
+      <start>false</start>
+      <acceptoare>false</acceptoare>
+      <locatie>{X=498,Y=118}</locatie>
+      <culoare>-8388480</culoare>
+    </stare>
+  </stari>
+  <tranzitii>
+    <tranzitie>
+      <idxStart>0</idxStart>
+      <idxStop>1</idxStop>
+      <culoare>-12490271</culoare>
+      <simboluri>a</simboluri>
+    </tranzitie>
+    <tranzitie>
+      <idxStart>1</idxStart>
+      <idxStop>0</idxStop>
+      <culoare>-12490271</culoare>
+      <simboluri>b</simboluri>
+    </tranzitie>
+  </tranzitii>
+</automat>

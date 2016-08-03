@@ -1,0 +1,60 @@
+C:\Users\Georgi\Documents\Visual Studio 2010\Projects\SimulatorAutomat\SimulatorAutomat\bin\Debug\SimulatorAutomat.exe
+C:\Users\Georgi\Documents\Visual Studio 2010\Projects\SimulatorAutomat\SimulatorAutomat\bin\Debug\SimulatorAutomat.pdb
+C:\Users\Georgi\Documents\Visual Studio 2010\Projects\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2010\Projects\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\SimulatorAutomat.FormHome.resources
+C:\Users\Georgi\Documents\Visual Studio 2010\Projects\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\SimulatorAutomat.Properties.Resources.resources
+C:\Users\Georgi\Documents\Visual Studio 2010\Projects\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\SimulatorAutomat.StareNeacceptoare.resources
+C:\Users\Georgi\Documents\Visual Studio 2010\Projects\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\SimulatorAutomat.StareNeacceptoareStart.resources
+C:\Users\Georgi\Documents\Visual Studio 2010\Projects\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\SimulatorAutomat.Tranzitie.resources
+C:\Users\Georgi\Documents\Visual Studio 2010\Projects\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Georgi\Documents\Visual Studio 2010\Projects\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Georgi\Documents\Visual Studio 2010\Projects\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\SimulatorAutomat.exe
+C:\Users\Georgi\Documents\Visual Studio 2010\Projects\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\SimulatorAutomat.pdb
+D:\Calculatoare IV\Licenta\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\SimulatorAutomat.exe
+D:\Calculatoare IV\Licenta\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\SimulatorAutomat.pdb
+D:\Calculatoare IV\Licenta\SimulatorAutomat\SimulatorAutomat\bin\Debug\SimulatorAutomat.exe
+D:\Calculatoare IV\Licenta\SimulatorAutomat\SimulatorAutomat\bin\Debug\SimulatorAutomat.pdb
+D:\Calculatoare IV\Licenta\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Calculatoare IV\Licenta\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\SimulatorAutomat.FormHome.resources
+D:\Calculatoare IV\Licenta\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\SimulatorAutomat.Properties.Resources.resources
+D:\Calculatoare IV\Licenta\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\SimulatorAutomat.StareNeacceptoare.resources
+D:\Calculatoare IV\Licenta\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\SimulatorAutomat.StareNeacceptoareStart.resources
+D:\Calculatoare IV\Licenta\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\SimulatorAutomat.Tranzitie.resources
+D:\Calculatoare IV\Licenta\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Calculatoare IV\Licenta\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Dropbox\Licenta\SimulatorAutomat\SimulatorAutomat\bin\Debug\SimulatorAutomat.exe
+D:\Dropbox\Licenta\SimulatorAutomat\SimulatorAutomat\bin\Debug\SimulatorAutomat.pdb
+D:\Dropbox\Licenta\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\Licenta\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\SimulatorAutomat.FormHome.resources
+D:\Dropbox\Licenta\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\SimulatorAutomat.Properties.Resources.resources
+D:\Dropbox\Licenta\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\SimulatorAutomat.StareNeacceptoare.resources
+D:\Dropbox\Licenta\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\SimulatorAutomat.StareNeacceptoareStart.resources
+D:\Dropbox\Licenta\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\SimulatorAutomat.Tranzitie.resources
+D:\Dropbox\Licenta\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Dropbox\Licenta\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Dropbox\Licenta\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\SimulatorAutomat.exe
+D:\Dropbox\Licenta\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\SimulatorAutomat.pdb
+D:\Dropbox\LicentaFinalOK\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\SimulatorAutomat.exe
+D:\Dropbox\LicentaFinalOK\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\SimulatorAutomat.pdb
+D:\Dropbox\LicentaFinalOK\SimulatorAutomat\SimulatorAutomat\bin\Debug\SimulatorAutomat.exe
+D:\Dropbox\LicentaFinalOK\SimulatorAutomat\SimulatorAutomat\bin\Debug\SimulatorAutomat.pdb
+D:\Dropbox\LicentaFinalOK\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\LicentaFinalOK\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\SimulatorAutomat.FormHome.resources
+D:\Dropbox\LicentaFinalOK\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\SimulatorAutomat.Properties.Resources.resources
+D:\Dropbox\LicentaFinalOK\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\SimulatorAutomat.StareNeacceptoare.resources
+D:\Dropbox\LicentaFinalOK\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\SimulatorAutomat.StareNeacceptoareStart.resources
+D:\Dropbox\LicentaFinalOK\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\SimulatorAutomat.Tranzitie.resources
+D:\Dropbox\LicentaFinalOK\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Dropbox\LicentaFinalOK\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\SimulatorAutomat.exe
+D:\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\SimulatorAutomat.pdb
+D:\SimulatorAutomat\SimulatorAutomat\bin\Debug\SimulatorAutomat.exe
+D:\SimulatorAutomat\SimulatorAutomat\bin\Debug\SimulatorAutomat.pdb
+D:\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\SimulatorAutomat.FormHome.resources
+D:\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\SimulatorAutomat.Properties.Resources.resources
+D:\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\SimulatorAutomat.StareNeacceptoare.resources
+D:\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\SimulatorAutomat.StareNeacceptoareStart.resources
+D:\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\SimulatorAutomat.Tranzitie.resources
+D:\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\SimulatorAutomat\SimulatorAutomat\obj\x86\Debug\GenerateResource.write.1.tlog
